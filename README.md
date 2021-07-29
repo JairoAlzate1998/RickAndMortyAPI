@@ -1,3 +1,3 @@
 # RickAndMortyAPI
 
-RICK AND MORTY API
+Rick and Morty API
