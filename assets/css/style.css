@@ -9,9 +9,10 @@ body{
 }
 
 .headerStyle{
-
+    color: #12a5d1;
 }
 
 .datosPersonajes{
-
+    margin-top: 140px;
+    margin-bottom: 60px;
 }
