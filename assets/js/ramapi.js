@@ -18,7 +18,7 @@ const llenarDatos = (data) => {
   let html = "";
   data.forEach((pj) => {
     html += '<div class="col mt-5">';
-    html += '<div class="card" style="width: 10rem;">';
+    html += '<div class="card" style="width: 15rem;">';
     html += `<img src="${pj.image}" class="card-img-top" alt="${pj.name}">`;
     html += '<div class="card-body">';
     html += `<h5 class="card-title">${pj.name}</h5>`;
